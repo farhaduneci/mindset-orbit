@@ -1,0 +1,126 @@
+{
+  "name": "Your Name",
+  "title": "{name}'s Mindset",
+  "subtitle": "Who and what shaped how I think about your topic",
+  "photo": "photos/me.svg",
+  "chip": {
+    "label": "@yourhandle",
+    "href": "https://x.com/yourhandle"
+  },
+  "sourcesLink": null,
+  "ellipseRatio": 1.3,
+  "rotation": {
+    "enabled": true
+  },
+  "rings": [
+    {
+      "radiusY": 155,
+      "size": 76,
+      "phase": -60,
+      "degPerSecond": 0.9
+    },
+    {
+      "radiusY": 235,
+      "size": 68,
+      "phase": 25,
+      "degPerSecond": -0.7
+    },
+    {
+      "radiusY": 310,
+      "size": 60,
+      "phase": -20,
+      "degPerSecond": 0.55
+    },
+    {
+      "radiusY": 385,
+      "size": 54,
+      "phase": 10,
+      "degPerSecond": -0.4,
+      "shape": "cover"
+    }
+  ],
+  "items": [
+    {
+      "name": "Closest influence",
+      "ring": 1,
+      "photo": "photos/person-1.svg",
+      "tagline": "Why this person matters",
+      "links": [
+        "https://example.com"
+      ],
+      "glow": null
+    },
+    {
+      "name": "Another influence",
+      "ring": 1,
+      "photo": "photos/person-2.svg",
+      "tagline": "",
+      "links": [],
+      "glow": null
+    },
+    {
+      "name": "Mentor",
+      "ring": 2,
+      "photo": "photos/person-3.svg",
+      "tagline": "",
+      "links": [],
+      "glow": null
+    },
+    {
+      "name": "Teacher",
+      "ring": 2,
+      "photo": "photos/person-4.svg",
+      "tagline": "",
+      "links": [],
+      "glow": null
+    },
+    {
+      "name": "A framework",
+      "ring": 3,
+      "photo": "photos/person-5.svg",
+      "tagline": "Works for tools and ideas too",
+      "links": [],
+      "glow": null
+    },
+    {
+      "name": "A builder",
+      "ring": 3,
+      "photo": "photos/person-6.svg",
+      "tagline": "",
+      "links": [],
+      "glow": null
+    },
+    {
+      "name": "A book",
+      "ring": 4,
+      "photo": "photos/cover-1.svg",
+      "tagline": "Author",
+      "links": [],
+      "glow": null
+    },
+    {
+      "name": "A film",
+      "ring": 4,
+      "photo": "photos/cover-2.svg",
+      "tagline": "Director",
+      "links": [],
+      "glow": null
+    },
+    {
+      "name": "A paper",
+      "ring": 4,
+      "photo": "photos/cover-3.svg",
+      "tagline": "",
+      "links": [],
+      "glow": null
+    },
+    {
+      "name": "A talk",
+      "ring": 4,
+      "photo": "photos/cover-4.svg",
+      "tagline": "",
+      "links": [],
+      "glow": null
+    }
+  ]
+}
