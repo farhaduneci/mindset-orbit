@@ -122,5 +122,9 @@
       "links": [],
       "glow": null
     }
-  ]
+  ],
+  "repo": {
+    "label": "GitHub",
+    "href": "https://github.com/farhaduneci/mindset-orbit"
+  }
 }

@@ -85,6 +85,12 @@ async function main() {
     chip.href = data.chip.href;
     chip.querySelector('span').textContent = data.chip.label;
   }
+  const repo = document.getElementById('repo');
+  if (data.repo) {
+    repo.hidden = false;
+    repo.href = data.repo.href;
+    repo.querySelector('span').textContent = data.repo.label;
+  }
   const src = document.getElementById('sources');
   if (data.sourcesLink) {
     src.hidden = false;
